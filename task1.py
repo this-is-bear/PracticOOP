@@ -9,4 +9,4 @@ class Soda:
         else:
             print('Это обычная газировка')
 s = Soda()
-s.show_my_drink
+s.show_my_drink()
